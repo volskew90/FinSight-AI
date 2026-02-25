@@ -1,0 +1,5 @@
+{
+  "name": "FinSight AI",
+  "description": "Fetch recent SEC filings and generate an AI-powered summary of a company's financial performance and announcements.",
+  "requestFramePermissions": []
+}
